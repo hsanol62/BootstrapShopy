@@ -1,5 +1,6 @@
 # BootstrapShopy
-Shopping mall website templates made with Bootstrap
+- frontend
+Shopping mall website built with Bootstrap 
 
 
 ## 개요<br/>
